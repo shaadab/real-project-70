@@ -1,0 +1,64 @@
+img {
+    
+    margin-left: 50px;
+    margin-bottom: 500px;
+}
+h6 {
+    margin-left: 50px;
+    color: deepskyblue;
+}
+h3 {
+    margin-left: 50px;    
+}
+h2 {
+    margin-left: 50px;
+    
+}
+#number {
+   margin-left: 50px;
+    margin-bottom: 100px;
+    color: deepskyblue;
+}
+li {
+    color: white;
+    margin: 20px;
+}
+.movie_head i {
+    float: right;
+}
+.movie_text span {
+    color: orange;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+.whats_new {
+    margin-top: 13px;
+}
+.whats_new  h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.whats_new  img {
+    border-radius: 25px;
+}
+.whats_new p {
+    margin-top: 10px;
+}
